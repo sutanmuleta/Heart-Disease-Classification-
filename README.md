@@ -1,8 +1,8 @@
 # Heart Disease EKG Prediction Scenario and Impact Analysis
 
-## Project Overview
+## Overview
 
-This project uses a classification model** to predict whether a patient’s electrocardiogram (EKG) result is normal or abnormal.  
+This project uses a classification model to predict whether a patient’s electrocardiogram (EKG) result is normal or abnormal.  
 I used the UCI Heart Disease dataset and tested changes in patient data would affect the model’s predictions.
 
 ---
@@ -25,7 +25,7 @@ I tested how sensitive the model is to **age** vs **cholesterol** changes.
 
 ---
 
-## Results Summary
+## Results and  Summary
 
 - **More abnormal EKG predictions when patients are older**
 - **Slight increase in abnormal EKG predictions even when lowering blood pressure (unexpected)**
@@ -33,7 +33,7 @@ I tested how sensitive the model is to **age** vs **cholesterol** changes.
 
 ---
 
-## Project Files
+## Files
 
  `project5.ipynb` 
  ` UCI Heart Disease datase`
