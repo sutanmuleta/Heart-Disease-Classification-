@@ -11,11 +11,13 @@ I used the UCI Heart Disease dataset and tested changes in patient data would af
 
 I created three scenarios to see how the model reacts when health features change:
 
-## | Scenarios  |
+##  Scenarios  
 
  **Aging Population** 
  **Healthier Lifestyle** 
  **Economic Stress** 
+
+ ---
 
 ### Sensitivity Analysis
 
